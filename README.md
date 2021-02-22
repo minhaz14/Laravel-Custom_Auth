@@ -1,9 +1,8 @@
-## User Pages
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Ecommerce_Laravel/blob/master/public/img/screen%20shotes/1.png" width="900" height="500"></a></p>
+## Login and Register Pages
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Laravel-Custom_Auth/blob/master/public/images/loin.png" width="900" height="500"></a></p>
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Ecommerce_Laravel/blob/master/public/img/screen%20shotes/2.png" width="900" height="500"></a></p>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Ecommerce_Laravel/blob/master/public/img/screen%20shotes/3.png" width="900" height="500"></a></p>
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Ecommerce_Laravel/blob/master/public/img/screen%20shotes/4.png" width="900" height="500"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Laravel-Custom_Auth/blob/master/public/images/register.png" width="900" height="500"></a></p>
+
 
 ## About Laravel
 
