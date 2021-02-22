@@ -1,3 +1,17 @@
+
+## About The Project
+
+The Project is a  simple Custom Authentication system  website build with the technology (Laravel v7, Laravel ui Auth, Bootstrap, Html and Css).the pages and componets are as follows,
+
+- login with Phone Number.
+- Registeratio contain First Name, Last Name, Name of the orginazatio, Street, City ,Phone, Email and Password field .
+
+
+
+
+
+
+
 ## Login and Register Pages
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/minhaz14/Laravel-Custom_Auth/blob/master/public/images/loin.png" width="900" height="500"></a></p>
 
